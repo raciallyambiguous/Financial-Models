@@ -1,0 +1,8 @@
+Docs Needed
+
+1- 10-k		4th quarter press release		conference call transcript		non-gaap disclosuresss
+2- Latest equity research and EPS consensus estimates
+	"initiation pieces" - research reports with more details
+3-last 6 mo.s news run:		stock splits, acquisitions and other mat. changes
+4- for quarterly models and LTM calc.s:
+	also get 3 latest 10-Qs and corresponding press releases and conf. call t-scripts

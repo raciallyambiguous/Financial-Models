@@ -1,0 +1,13 @@
+Scenario /Sensititvity Analysis
+
+
+limited to two inputs per table 
+
+dont link table inputs to model 
+	except for output (top left)
+	won't work 
+
+alt d t
+
+FORMULA
+	=offset(cell,match()+match()-1,0)

@@ -1,0 +1,28 @@
+BS Forecasting:
+	BS Line Item & their Drivers
+
+
+FRAMEWORK!!!!!!!
+If have thesis, grow with rev or COGS
+If don't know nature SL or grow with revenue
+AS LONG AS ITS TIED TO OPERATIONS
+
+To investigate: look at footnote for 'other' line item on I/S in 10-K
+If not tied to operations:
+	Staight Line
+
+
+Assets
+AR  - Revenue
+INventories  - COGS
+Other Current Assets - Revenue (or straight line if no thesis) MAKE THESIS
+PPE - Reference from PPE Schedule
+OTher Non-current assets - Revenue
+
+Liabilities
+AP - COGS
+Other current liabilities - revenue
+Def Rev - Revenue
+Commercial Paper - idk yet
+LT Debt - SL, come back to later
+Other nc liabilities  - grow with revenue (tied to op.s) sl (if not tied to operations)

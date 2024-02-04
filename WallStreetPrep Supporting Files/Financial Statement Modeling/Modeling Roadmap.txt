@@ -1,0 +1,18 @@
+Modeling Roadmap
+Part 1- 
+ 	Building Integrated Fin Statement Model
+	Core 3 statement model
+		Steps: 
+			Input Historical Data
+			Forecasting - IS BS
+			Derive CF Statement
+			Address Circular Reference Issues
+			Scenario and Sensitivity Analysis
+Part 2- 
+	Error Proofing & Adding Complexity to the Model 
+		Steps:
+			Balancing a financial model
+			Adding a revenue build (PV analysis)
+			Working Capital Schedules
+			Adding a Depreciation Waterfall schedule
+			Updating an Existing Model
